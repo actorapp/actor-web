@@ -75,7 +75,6 @@ class EditGroup extends Component {
 
   renderTitle() {
     const { title } = this.state;
-    console.debug('title', title);
 
     return (
       <TextField
