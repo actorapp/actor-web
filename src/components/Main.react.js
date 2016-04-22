@@ -12,6 +12,7 @@ import Favicon from './common/Favicon.react';
 
 import ModalsWrapper from './modals/ModalsWrapper.react';
 import MenuOverlay from './common/MenuOverlay.react';
+import BlockedUsers from './modals/BlockedUsers.react';
 import SmallCall from './SmallCall.react';
 
 class Main extends Component {
@@ -75,6 +76,7 @@ class Main extends Component {
 
         <ModalsWrapper/>
         <MenuOverlay/>
+        <BlockedUsers/>
 
         {this.renderCall()}
       </div>
