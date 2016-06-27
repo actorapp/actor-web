@@ -1,7 +1,5 @@
-# Active Contributors
-* Steve Kite (@ex3ndr)
+# Contributors
 * Gleb Putintsev (@kor-ka)
-
-# Past Contributors
-* Nikita Gusakov
-* Oleg Shilov
+* Nikita Gusakov (inactive)
+* Oleg Shilov (inactive)
+* Steve Kite (@ex3ndr)
